@@ -13,5 +13,7 @@ and open the template in the editor.
         <?php
         // put your code here
         ?>
+        
+        Copyright 2017
     </body>
 </html>
